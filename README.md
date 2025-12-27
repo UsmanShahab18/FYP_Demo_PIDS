@@ -39,7 +39,7 @@ CyberShield IDS is a network security tool that captures live traffic, analyzes 
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/UsmanShahab18/FYP_Demo_PIDS.git](https://github.com/UsmanShahab18/FYP_Demo_PIDS.git)
-cd FYP_Demo_PIDS
+cd FYP_Demo_PIDS```
 
 ```bash
 # At Terminal 1
