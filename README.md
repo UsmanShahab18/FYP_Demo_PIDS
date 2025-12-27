@@ -41,6 +41,7 @@ CyberShield IDS is a network security tool that captures live traffic, analyzes 
 git clone [https://github.com/UsmanShahab18/FYP_Demo_PIDS.git](https://github.com/UsmanShahab18/FYP_Demo_PIDS.git)
 cd FYP_Demo_PIDS
 
+```bash
 # At Terminal 1
 cd backend
 # Create a virtual environment
@@ -53,9 +54,11 @@ python manage.py migrate
 # Start the Django server (Runs on port 8000)
 python manage.py runserver
 
+```bash
 # At Terminal 2
 python manage.py start_sniffer
 
+```bash
 # At Terminal 3
 cd frontend
 # Install Node modules
